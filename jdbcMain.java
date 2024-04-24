@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class jdbcMain {
 
 	public static void  main(String[] args) throws SQLException {
+		
 		// TODO Auto-generated method stub
 		Eventjdbc crud=new Eventjdbc();
 		Participantsjdbc crud1=new Participantsjdbc();
