@@ -12,7 +12,7 @@ public class Eventjdbc {
 	
 	 private static final String JDBC_URL = "jdbc:mysql://localhost:3306/event";
 	    private static final String USERNAME = "root";
-	    private static final String PASSWORD = "psk5512";
+	    private static final String PASSWORD = "giri2004";
 //		private static final int EventId = 0;
 	   
 	    
